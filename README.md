@@ -200,7 +200,7 @@ JumpServer 采纳分布式架构，支持多机房跨区域部署，支持横向
 
 JumpServer是一款安全产品，请参考 [基本安全建议](https://docs.jumpserver.org/zh/master/install/install_security/) 部署安装.
 
-如果你发现安全问题，可以直接联系我们：
+如果你发现问题，可以直接联系我们：
 
 - ibuler@fit2cloud.com 
 - support@fit2cloud.com 
@@ -208,7 +208,7 @@ JumpServer是一款安全产品，请参考 [基本安全建议](https://docs.ju
 
 ## License & Copyright
 
-Copyright (c) 2014-2020 飞致云 FIT2CLOUD, All rights reserved.
+Copyright (c) Vincross, All rights reserved.
 
 Licensed under The GNU General Public License version 2 (GPLv2)  (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 

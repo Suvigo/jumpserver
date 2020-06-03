@@ -51,7 +51,7 @@ We provide the SDK for your other systems to quickly interact with the Jumpserve
 
 
 ### License & Copyright
-Copyright (c) 2014-2019 Beijing Duizhan Tech, Inc., All rights reserved.
+Copyright (c) 2014-2019 Beijing Vincross, Inc., All rights reserved.
 
 Licensed under The GNU General Public License version 2 (GPLv2)  (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
